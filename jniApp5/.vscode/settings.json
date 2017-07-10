@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "jni.h": "c",
+        "stdio.h": "c",
+        "libio.h": "c"
+    }
+}
